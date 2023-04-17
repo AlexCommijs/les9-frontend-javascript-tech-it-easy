@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 10px;
+}
+
+#tv-sold {
+    color: green;
+}
+
+#tv-bought {
+    color: blue;
+}
+
+#tv-sell {
+    color: red;
+}
